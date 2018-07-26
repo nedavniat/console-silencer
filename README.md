@@ -1,2 +1,4 @@
 # console-silencer
-silence console.log and console.error form your code but leave logs from testrunner
+
+This zero-dependencies module allows you to silence console.log and console.error from the code that is currently tested without silencing the logs of your testrunner. Module is intended for use in Node JS v8.x enviroment.
+
