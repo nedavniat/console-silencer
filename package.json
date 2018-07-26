@@ -1,0 +1,24 @@
+{
+  "name": "console-silencer",
+  "version": "1.0.0",
+  "description": "silences console.log/error output except for those originating from testrunner",
+  "main": "./index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nedavniat/console-silencer.git"
+  },
+  "keywords": [
+    "silence",
+    "console.log",
+    "tests"
+  ],
+  "author": "nedavniat",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nedavniat/console-silencer/issues"
+  },
+  "homepage": "https://github.com/nedavniat/console-silencer#readme"
+}
